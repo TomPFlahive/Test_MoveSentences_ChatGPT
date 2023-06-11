@@ -11,7 +11,7 @@ import SwiftUI
 struct Test_MoveSentences_ChatGPTApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SentenceSelectionView()
         }
     }
 }
